@@ -1,1 +1,1 @@
-Arquivo do exercício de revisão
+Arquivo do exercício de revisão do curso Desevendo o Github realizado pela WoMakerCodes.
